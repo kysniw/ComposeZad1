@@ -11,7 +11,7 @@ git clone https://github.com/kysniw/ComposeZad1.git
 
 Następnie przechodzimy do folderu kysniw_docker_compose:
 ```
-cd ComposeZad1/kysniw_docker_compose
+cd ComposeZad1/ComposeZad1
 ```
 
 # Przygotowanie przeglądarki
@@ -37,7 +37,7 @@ Aby udało się uruchomić usługę należy na naszej przeglądarce odblokować 
   `--explicitly-allowed-ports=6666`
 
 # Uruchomienie
-Teraz z poziomu folderu docker_kysniw_compose należy wpisać w terminalu komendę:
+Teraz z poziomu folderu ComposeZad1 należy wpisać w terminalu komendę:
 ```
 docker-compose up
 ```
